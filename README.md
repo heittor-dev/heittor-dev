@@ -1,14 +1,16 @@
-# 👨🏻‍💻 Heittor Luiz
+# Heittor Luiz
 
-**`Desenvolvedor Backend | Engenharia de Software`**
+**Estudante de Engenharia de Software | Desenvolvimento Backend**
 
-Olá! Meu nome é **Heittor Luiz Pinto de Carvalho**. Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e desenvolvimento de software.
+Olá! Meu nome é **Heittor Luiz Pinto de Carvalho** e sou estudante de **Engenharia de Software** no Centro Universitário UNIFASAR.
 
-Tenho interesse em **desenvolvimento Backend**, construção de APIs, microsserviços, bancos de dados e desenvolvimento de sistemas.
+Tenho interesse em **desenvolvimento de software**, especialmente na área de Backend, e venho desenvolvendo meus conhecimentos por meio da faculdade, projetos acadêmicos e projetos pessoais.
 
-Atualmente, venho desenvolvendo minhas habilidades principalmente com **C#, .NET, PostgreSQL, Docker e AWS**, além de ferramentas e tecnologias utilizadas no desenvolvimento de software.
+Possuo conhecimentos em **Java, JavaScript, C#, .NET, HTML, CSS, PostgreSQL, MariaDB, Git e GitHub**, além de conhecimentos em lógica de programação, programação orientada a objetos e bancos de dados.
 
-Busco constantemente aprimorar meus conhecimentos em **arquitetura de software, desenvolvimento Backend, microsserviços e computação em nuvem**.
+Atualmente, estou aprimorando meus conhecimentos em **Java, JavaScript, C# e .NET**, além de continuar evoluindo em bancos de dados e desenvolvimento de sistemas.
+
+Busco uma oportunidade de **estágio na área de tecnologia**, onde possa aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo na área de desenvolvimento de software.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/heittor-luiz/">
@@ -22,78 +24,6 @@ Busco constantemente aprimorar meus conhecimentos em **arquitetura de software, 
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
-
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt=".NET" 
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
-
----
-
-### 📈 Contribuições
-
 <p align="center">
   <img 
     src="https://ghchart.rshah.org/heittor-dev"
@@ -103,53 +33,153 @@ Busco constantemente aprimorar meus conhecimentos em **arquitetura de software, 
 
 ---
 
-### 🧠 Conhecimentos
+## Tecnologias e Ferramentas
 
-- **C# / .NET**
-- **PostgreSQL**
-- **Microsserviços**
-- **Docker**
-- **AWS**
-- **Git**
-- **GitHub**
+<img 
+align="left" 
+alt="Java" 
+title="Java" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="JavaScript" 
+title="JavaScript" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="C#" 
+title="C#" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+<img 
+align="left" 
+alt=".NET" 
+title=".NET" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="HTML5" 
+title="HTML5" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="CSS3" 
+title="CSS3" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="PostgreSQL" 
+title="PostgreSQL" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="MariaDB" 
+title="MariaDB" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="Git" 
+title="Git" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+align="left" 
+alt="GitHub" 
+title="GitHub" 
+width="30px" 
+style="padding-right: 10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
-### 📚 Atualmente estudando
+## Conhecimentos
 
-- Desenvolvimento Backend com **C# e .NET**
-- **Arquitetura de Software**
-- **Microsserviços**
-- **Docker**
-- **AWS**
-- **PostgreSQL**
-- **Estruturas de Dados**
-- **Boas práticas de desenvolvimento**
+Lógica de Programação
+Programação Orientada a Objetos
+Estruturas de Dados
+Desenvolvimento Backend
+Bancos de Dados
+Git e GitHub
 
 ---
 
-### 🎓 Formação
+## Atualmente estudando
 
-**Engenharia de Software**  
+Java
+JavaScript
+C# e .NET
+Desenvolvimento Backend
+Estruturas de Dados
+Arquitetura de Software
+Boas práticas de desenvolvimento
+
+---
+
+## Projetos
+
+Alguns dos projetos que venho desenvolvendo durante minha formação em Engenharia de Software.
+
+### AOH Tech
+
+Projeto acadêmico desenvolvido em **C#**, com o objetivo de aplicar conceitos de programação e desenvolvimento de sistemas.
+
+**Tecnologia:** C#
+
+[Ver projeto no GitHub](https://github.com/heittor-dev/AOH-Tech)
+
+### CRUD Produtos
+
+Projeto acadêmico desenvolvido em **Java**, com foco na criação de um sistema CRUD para gerenciamento de produtos.
+
+O projeto utiliza **Servlets, JDBC, MariaDB e Apache Tomcat**, permitindo realizar operações de cadastro e consulta de produtos.
+
+O desenvolvimento está sendo realizado durante as aulas, com acompanhamento e orientação do professor.
+
+**Tecnologias:** Java, Servlets, JDBC, HTML, MariaDB e Apache Tomcat
+
+---
+
+## Formação
+
+**Engenharia de Software**
 Centro Universitário UNIFASAR
 
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=heittor-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Principais linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heittor-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+**Previsão de conclusão:** 2028
